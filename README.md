@@ -38,7 +38,7 @@
 ### 📕 Latest Repositories Posts
 
 <!-- BLOG-POST-LIST:START -->
-- October, 2021: Bilinear Model. This repository includes a generative model of how observed fNIRS data are caused by iteractionsamong hidden neuronal states based on the S. Tak paper Dynamic Causal Modelling for functional Near-Infrared Spectroscopy from 2015 (ELSEVIER).(https://github.com/MarSH-Up/2021_BilinearModel_fNIRS)
+- October, 2021: [Bilinear Model. This repository includes a generative model of how observed fNIRS data are caused by iteractionsamong hidden neuronal states based on the S. Tak paper Dynamic Causal Modelling for functional Near-Infrared Spectroscopy from 2015 (ELSEVIER).](https://github.com/MarSH-Up/2021_BilinearModel_fNIRS)
 <!-- BLOG-POST-LIST:END -->
 
 </details>

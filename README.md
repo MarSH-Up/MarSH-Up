@@ -7,8 +7,10 @@
 
 - 🔭 I'm a MsC Computer Science Student working on my thesis: Neurofeedback based-on fNIRS
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently trying to learn everything 🤣
+- 🔋 I do some electronics projects for hobby
 - ⚡ Fun fact: I love comics and sci-fi
+
 
 ### Connect with me:
 

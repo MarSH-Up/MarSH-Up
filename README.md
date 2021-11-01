@@ -21,6 +21,7 @@
 
  <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> 
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/> 
+<img align="left" alt="JAVA" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
 <img align="left" alt="C" width="30px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"/>   
 <img align="left" alt="MATLAB" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>   
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"/> 
@@ -29,6 +30,8 @@
 <img align="left" alt="CSS" width="30px" src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png"/>
 <img align="left" alt="AltiumDesigner" width="30px" src="https://downloadly.net/wp-content/uploads/2020/03/Altium-Designer.png"/>
 <img align="left" alt="Eagle" width="30px" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj"/>
+
+
 ---
 <br/>
 

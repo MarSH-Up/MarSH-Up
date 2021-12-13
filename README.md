@@ -41,6 +41,8 @@
 <img align="left" alt="3DS CATIA" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png"/>
 <img align="left" alt="3DS SOLIDWORKS" width="30px" src="https://e7.pngegg.com/pngimages/558/632/png-clipart-computer-icons-solidworks-e-miscellaneous-text.png"/>
 <img align="left" alt="Simio" width="35px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8f6d790f6442a805afd79c5c4ac85cfa/simio-production-scheduling.png"/>
+<img align="left" alt="AutoCAD" width="35px" src="https://logos-marcas.com/wp-content/uploads/2020/12/Autocad-Logo.png"/>
+<img align="left" alt="Fusion 360" width="35px" src="https://www.pngitem.com/pimgs/m/437-4375158_autodesk-fusion-360-logo-nt-fusion-360-logo.png"/>
 ---
 <br/>
 

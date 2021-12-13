@@ -1,4 +1,4 @@
-### Hi there, I'm Mario here is my [Profile][website] 👋
+### Hi there, I'm Mario, and here is my [Profile][website] 👋
 
 [![Website](https://img.shields.io/website?label=marsh-up.github.io/CV&style=for-the-badge&url=https%3A%2F%2Fmarsh-up.github.io/CV)](https://marsh-up.github.io/CV/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/M_DlsH?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FM_DlsH&screen_name=M_DlsH)

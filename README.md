@@ -37,7 +37,7 @@
 
 <img align="left" alt="AltiumDesigner" width="30px" src="https://downloadly.net/wp-content/uploads/2020/03/Altium-Designer.png"/>
 <img align="left" alt="Eagle" width="30px" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj"/>
-<img align="left" alt="NI Multisim" width="30px" src="https://w7.pngwing.com/pngs/65/944/png-transparent-ni-multisim-electronics-ni-ultiboard-electronic-circuit-computer-software-electronic-instrument-purple-angle-rectangle.png"/>
+<img align="left" alt="NI Multisim" width="30px" src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/Multisim-Icono.png"/>
 ---
 <br/>
 

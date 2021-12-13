@@ -39,6 +39,7 @@
 <img align="left" alt="Eagle" width="30px" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj"/>
 <img align="left" alt="NI Multisim" width="30px" src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/Multisim-Icono.png"/>
 <img align="left" alt="3DS CATIA" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png"/>
+<img align="left" alt="3DS SOLIDWORKS" width="30px" src="https://e7.pngegg.com/pngimages/558/632/png-clipart-computer-icons-solidworks-e-miscellaneous-text.png"/>
 ---
 <br/>
 

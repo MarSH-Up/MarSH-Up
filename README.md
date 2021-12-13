@@ -40,7 +40,7 @@
 ### 📕 Latest Repositories Posts
 
 <!-- BLOG-POST-LIST:START -->
-- November, 2021: [Neurofeedback models entail solving a computational problem of real-time intelligent adaptive control whereby the controller cannot directly influence the controlled process. This model includes a full neurofeedback model that uses a PID controller to control the motor system. SPOILER ALERT: PID is not enough to maintain brain connectivity.](https://github.com/MarSH-Up/2021_Neurofeedback)
+- November, 2021: [Neurofeedback based-on fNIRS. Neurofeedback models entail solving a computational problem of real-time intelligent adaptive control whereby the controller cannot directly influence the controlled process. This model includes a full neurofeedback model that uses a PID controller to control the motor system. SPOILER ALERT: PID is not enough to maintain brain connectivity.](https://github.com/MarSH-Up/2021_Neurofeedback)
 - October, 2021: [Bilinear Model. This repository includes a generative model of how observed fNIRS data are caused by iteractionsamong hidden neuronal states based on the S. Tak paper Dynamic Causal Modelling for functional Near-Infrared Spectroscopy from 2015 (ELSEVIER).](https://github.com/MarSH-Up/2021_BilinearModel_fNIRS)
 <!-- BLOG-POST-LIST:END -->
 

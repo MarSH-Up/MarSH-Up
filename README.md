@@ -32,7 +32,9 @@
 <img align="left" alt="CSS" width="30px" src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png"/>
 ---
 <br/>
+
 ### Electronics and Mechanics:
+
 <img align="left" alt="AltiumDesigner" width="30px" src="https://downloadly.net/wp-content/uploads/2020/03/Altium-Designer.png"/>
 <img align="left" alt="Eagle" width="30px" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj"/>
 ---

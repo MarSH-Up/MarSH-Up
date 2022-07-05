@@ -6,10 +6,10 @@
 ## I'm a MSc Student, Engineer, and sometimes a kinda a Teacher!
 
 - 🔭 I'm a MsC Computer Science Student working on my thesis: Neurofeedback based-on fNIRS
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to documented Open Source projects
 - 🌱 I’m currently trying to learn from everything 🤣
-- 🔋 I do some electronics projects for hobby
-- ⚡ Fun fact: I love comics and sci-fi
+- 🔋 I do some electronics projects for hobby (+5 years in Industrial electronic design was enough, lol)
+- ⚡ Fun fact: I love comics, manga, and sci-fi. 
 
 
 ### Connect with me:

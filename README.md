@@ -42,7 +42,7 @@
 <img align="left" alt="3DS SOLIDWORKS" width="30px" src="https://e7.pngegg.com/pngimages/558/632/png-clipart-computer-icons-solidworks-e-miscellaneous-text.png"/>
 <img align="left" alt="Simio" width="35px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8f6d790f6442a805afd79c5c4ac85cfa/simio-production-scheduling.png"/>
 <img align="left" alt="AutoCAD" width="35px" src="https://logos-marcas.com/wp-content/uploads/2020/12/Autocad-Logo.png"/>
-<img align="left" alt="Fusion 360" width="35px" src="https://i2.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2020/04/fusion-360-lockup-stacked-screen-e1587051098338.png?fit=1278%2C630&ssl=1"/>
+<img align="left" alt="Fusion 360" width="37px" src="https://i2.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2020/04/fusion-360-lockup-stacked-screen-e1587051098338.png?fit=1278%2C630&ssl=1"/>
 ---
 <br/>
 

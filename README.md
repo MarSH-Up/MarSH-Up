@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=marsh-up.github.io/CV&style=for-the-badge&url=https%3A%2F%2Fmarsh-up.github.io/CV)](https://marsh-up.github.io/CV/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/M_DlsH?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FM_DlsH&screen_name=M_DlsH)
 
-## I'm a MSc Student, Engineer, and sometimes a kinda a Teacher!
+## I'm a Developer , Engineer, and sometimes a kinda a Teacher!
 
-- 🔭 I'm a MsC Computer Science Student working on my thesis: Neurofeedback based-on fNIRS
+- 🔭 I'm a did a MSc in Computer Science Student my thesis: Neurofeedback based-on fNIRS
 - 🥅 2022 Goals: Contribute more to documented Open Source projects
 - 🌱 I’m currently trying to learn from everything 🤣
 - 🔋 I do some electronics projects for hobby (+5 years in Industrial electronic design was enough, lol)

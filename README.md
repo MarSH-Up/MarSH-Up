@@ -7,7 +7,7 @@
 
 - 🔭 I'm a did a MSc in Computer Science Student my thesis: Neurofeedback based-on fNIRS
 - 🥅 2022 Goals: Contribute more to documented Open Source projects
-- 🌱 I’m currently trying to learn from everything 🤣
+- 🌱 I’m currently trying to learn a lot of stuff (mostly Web Development ) 🤣
 - 🔋 I do some electronics projects for hobby (+5 years in Industrial electronic design was enough, lol)
 - ⚡ Fun fact: I love comics, manga, and sci-fi. 
 
